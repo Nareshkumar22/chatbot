@@ -12,7 +12,17 @@
   
   <categoey>
       <pattern>HELLO *</pattern>
-      <template>Hello User</template>
+      <template>Hello User!</template>
+  </categoey>
+  
+   <categoey>
+      <pattern>_ BOT</pattern>
+      <template>Hi there.</template>
+  </categoey>
+  
+  <categoey>
+      <pattern>_</pattern>
+      <template>oops</template>
   </categoey>
 
 </aiml>
